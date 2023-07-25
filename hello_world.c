@@ -7,6 +7,6 @@ int main()
     // "Hello World" is a string
     // "\n" is a control new-line character
     printf("Hello World\n");
-    // "return 0" is executed if everything goes ok
+    // "return 0" is executed if everything goes OK
     return 0;
 }
