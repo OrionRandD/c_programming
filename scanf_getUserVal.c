@@ -3,6 +3,7 @@
 // Function to get the area of a circle
 
 int main()
+
 {
   double radius; // declaring a variable (radius is the distance from the
               // outside circle to its centre
@@ -15,4 +16,5 @@ int main()
   printf("The given radius value is %.2f\n", radius); // "%.2f" means
                                                       // two decimal houses
   return 0;
+
 }
