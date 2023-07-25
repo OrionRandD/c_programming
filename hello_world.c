@@ -9,4 +9,12 @@ int main()
     printf("Hello World\n");
     // "return 0" is executed if everything goes OK
     return 0;
+
+    // for compiling this code, do it in the terminal:
+    // gcc hello_world.c // or
+    // clang hello_world.c
+    // you have to install gcc and clang
+    // on debian, do:
+    // sudo apt install gcc clang
 }
+
