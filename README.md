@@ -6,6 +6,16 @@ my C files
 
 // Caleb Curry C course (that course taught me a lot) 
 
+// I prefer to code using GNU/Linux
+
+// You can use Emacs or Vim to study these code
+
+// Generally I tend to avoid vsCode (code)
+
+// But, do whatever you want...
+
+/* There is codeBlocks which is an opensource editor and can be installed in M$ as well */
+
 // Variables
 
 // int x = 20;
