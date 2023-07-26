@@ -63,3 +63,53 @@ so:
 
 */
 
+// Data types
+
+// int tocos = 5; // integer
+
+// int x = 12 / 3; // integer
+
+// double y = 3.4; // double
+
+// float y = 3.4; // float
+
+// numeric types
+
+/* primitive data types are indivisible/atomic. They are used as
+building blocks */
+
+// complex (structured) data types
+
+// e.g.:
+
+// date today;
+
+// coordinates 101; 
+
+// linked lists
+
+// Arrays
+
+// int grade [10];
+
+// char ballons [3]; 
+
+// "I do not like cats" // strings - a sequence of chars
+
+// "\0" // the "nul char" which ends a string
+
+// Array elements
+
+// Constants
+
+// int cats = 98; 
+
+// '3' - a char
+
+// "3" - a string
+
+// 3 - a integer
+
+// double cats = 98.5 // a float (double) type
+
+// float cats = 98.5 // a float (float) type
